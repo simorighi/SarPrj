@@ -1,0 +1,9 @@
+hr::before{
+    content: "";
+    display: block;
+    border-top: 3px solid #000;
+    width: 20px;
+    position: absolute;
+    top: 395%;
+    left: -9%;
+}
