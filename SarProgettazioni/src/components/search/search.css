@@ -1,0 +1,11 @@
+.btn-custom {
+    color: white; /* Colore del testo */
+    border: none; /* Rimuove il bordo */
+    border-radius: 5px; /* Angoli arrotondati */
+    cursor: pointer; /* Cambia il cursore al passaggio del mouse */
+    transition: background 0.3s ease, transform 0.4s ease; /* Animazioni */
+  }
+
+.container {
+    margin-top: 10%;
+}

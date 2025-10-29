@@ -35,10 +35,10 @@ function Home() {
       <VideoComponent />
       <div className="container mt-5">
         <div className="row">
-          <div className="col-12 text-left mt-5">
+          <div className="col-12 text-left mt-5 title">
           {/* <hr /> */}
-            <h1 className="fs-1"><strong>SAR Progettazioni</strong></h1>
-            
+            <h1><strong>SAR Progettazioni</strong></h1>
+            <h2 className="ps-4">sottotitolo carino ma efficace che ne so </h2>
           </div>
         </div>
       </div>

@@ -9,7 +9,6 @@ export default function VideoComponent() {
         <video src={myVideo} autoPlay loop muted playsInline className="position-absolute top-0 start-0 w-100 h-100 z-n1"
         />
       </div>
-
       
 
     </>
